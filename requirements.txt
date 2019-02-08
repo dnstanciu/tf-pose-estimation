@@ -8,4 +8,4 @@ scikit-image
 scipy
 slidingwindow
 tqdm
-git+https://github.com/tensorpack/tensorpack.git
+tensorpack
